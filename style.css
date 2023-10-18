@@ -1,0 +1,27 @@
+body{
+    width: 800px;
+    height: 450px;
+    text-align: center;
+    margin-left: 29%;
+    margin-right: 20%;
+    margin-top: 100px;
+}
+
+.main{
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 800px;
+    
+}
+
+.main img{
+    width: 200px;
+    height: 200px;
+    margin-left: 70px;
+}
+*{
+    background-image: url("https://c.wallhere.com/photos/d6/16/code_programming_language_programming_programmers_JavaScript-2123849.jpg!d");
+    text-align: center;
+    background-attachment: fixed;
+}
